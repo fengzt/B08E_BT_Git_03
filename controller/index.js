@@ -11,3 +11,5 @@ function main2() {
 function main3() {
   console.log("doneBaiTapBuoi03");
 }
+
+console.log('Buoi03');
