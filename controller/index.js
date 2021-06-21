@@ -7,3 +7,7 @@ function main() {
 function main2() {
     console.log('doneBaiTapBuoi02');
 }
+
+function main3() {
+  console.log("doneBaiTapBuoi03");
+}
